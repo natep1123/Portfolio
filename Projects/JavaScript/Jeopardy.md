@@ -4,6 +4,26 @@ _Interactive Jeopardy gameboard. Practice fetching, using and displaying data fr
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1QjL2YST3bc7izdY8WS7jbWUanypN1s8l/view?usp=drive_link)
 
+## Summary:
+
+HTML, CSS and JavaScript practice with:
+
+- DOM manipulation
+- Async/Await
+- Event handling
+- Array and object manipulation
+- Error handling
+- API integration
+- CSS styling
+
+Key Features:
+
+- Fetches data from an API for categories and clues.
+- Dynamically builds a gameboard with clickable cells that reveal questions and answers.
+- Implements the Fisher-Yates shuffle for randomizing categories.
+- Manages loading states with spinners and button interactions.
+- Handles errors and disables user input to prevent multiple requests.
+
 ## Graded by Hatchways Code Reviewer
 
 ### _Score: 96/100_
