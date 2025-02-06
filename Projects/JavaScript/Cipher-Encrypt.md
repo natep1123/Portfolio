@@ -19,13 +19,14 @@ HTML, CSS and JavaScript Practice with:
 - UI design
 
 Key Features:
-**Custom Letter-Shift Algorithm:** Encrypts and decrypts messages using a unique up/down letter-shifting method with random letter insertions.
-**Interactive UI:** Input your message and shift value, hit "Encrypt," and watch the encryption animation in action.
-**Modular Design:** Built with a clear separation of concerns.
-**Dynamic Text Animations:** Engaging animations are applied to the title continuously, and to buttons during encryption and decryption processes.
-**Flexible Shift Values:** Supports shift values between 1 and 144 for varied encryption results.
-**Handles Non-Letters:** Non-alphabetic characters (e.g., punctuation) are preserved unchanged, making it robust for real-world text.
-**Decryption:** Includes functionality to reverse the encryption process and retrieve the original message.
+
+- **Custom Letter-Shift Algorithm:** Encrypts and decrypts messages using a unique up/down letter-shifting method with random letter insertions.
+- **Interactive UI:** Input your message and shift value, hit "Encrypt," and watch the encryption animation in action.
+- **Modular Design:** Built with a clear separation of concerns.
+- **Dynamic Text Animations:** Engaging animations are applied to the title continuously, and to buttons during encryption and decryption processes.
+- **Flexible Shift Values:** Supports shift values between 1 and 144 for varied encryption results.
+- **Handles Non-Letters:** Non-alphabetic characters (e.g., punctuation) are preserved unchanged, making it robust for real-world text.
+- **Decryption:** Includes functionality to reverse the encryption process and retrieve the original message.
 
 ## Algorithms:
 
