@@ -9,7 +9,7 @@ _Collection of my portfolio projects with notes and demo videos._
 
 ### Springboard Disclaimer:
 
-Some projects were built as part of Springboard’s Software Engineering Career Track. Code related to their is not publicly available, but feel free to reach out if you'd like to see it! My personal projects, however, are public, so check them out in my **[GitHub repositories](https://github.com/natep1123?tab=repositories)** or via title-links in the project’s markdown file.
+Some projects were built as part of Springboard’s Software Engineering Career Track. Project solutions for their assignments are not public, but feel free to reach out if you'd like to see the code! My personal projects, however, are publicly available, so check them out in my **[GitHub repositories](https://github.com/natep1123?tab=repositories)** or via title-links in the project’s markdown file.
 
 ## Contact Me:
 
