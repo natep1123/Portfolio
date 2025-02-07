@@ -1,11 +1,13 @@
-# Portfolio - Nathaniel Perry
+# Welcome to My Portfolio! 👋
 
-_Collection of my portfolio projects with notes and demo videos._
+Hello, I'm **Nathaniel Perry** – a passionate **Software Engineer** and aspiring **Full-Stack Developer**. Welcome to my curated collection of projects! 🚀
+
+Dive in, enjoy the demos, and feel free to reach out with feedback, collaboration ideas or just to say hi! ✨
 
 ## Summary:
 
-- Explore my projects in the **Projects** directory, where each project has its own markdown file with notes and a demo video link.
-- All my portfolio demo videos are available in this Google Drive folder: **[Portfolio Demos](https://drive.google.com/drive/folders/1qrpljgr2T5PQL8Llyx-HrsRQaWo9behY?usp=drive_link)**.
+- 🔍 **Explore Projects:** Check out the **Projects** directory where each project features its own markdown file with detailed notes and a demo video link.
+- 🎥 Demo Videos: All my portfolio demo videos are available in this Google Drive folder: **[Portfolio Demos](https://drive.google.com/drive/folders/1qrpljgr2T5PQL8Llyx-HrsRQaWo9behY?usp=drive_link)**.
 
 ### Springboard Disclaimer:
 
@@ -13,6 +15,6 @@ Some projects were built as part of Springboard’s Software Engineering Career 
 
 ## Contact Me:
 
-- **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**
-- Tell me—what’s a programming habit you swear by?
+- 📧 **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**
+- 💬 **Let's Connect:** Tell me—what’s a programming habit you swear by?
