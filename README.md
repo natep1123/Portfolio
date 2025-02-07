@@ -7,7 +7,7 @@ Dive in, enjoy the demos, and feel free to reach out with feedback, collaboratio
 ## Summary:
 
 - 🔍 **Explore Projects:** Check out the **Projects** directory where each project features its own markdown file with detailed notes and a demo video link.
-- 🎥 Demo Videos: All my portfolio demo videos are available in this Google Drive folder: **[Portfolio Demos](https://drive.google.com/drive/folders/1qrpljgr2T5PQL8Llyx-HrsRQaWo9behY?usp=drive_link)**.
+- 🎥 **Demo Videos:** All my portfolio demo videos are available in this Google Drive folder: **[Portfolio Demos](https://drive.google.com/drive/folders/1qrpljgr2T5PQL8Llyx-HrsRQaWo9behY?usp=drive_link)**.
 
 ### Springboard Disclaimer:
 
