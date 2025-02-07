@@ -17,4 +17,4 @@ Some projects were built as part of Springboard’s Software Engineering Career 
 
 - 📧 **[nathaniel.perry1123@gmail.com](mailto:nathaniel.perry1123@gmail.com)**
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/nathaniel-perry-646bb4326)**
-- 💬 **Let's Connect:** - Tell me what’s a programming habit you swear by?
+- 💬 **Let's Connect:** Tell me - what’s a programming habit you swear by?
