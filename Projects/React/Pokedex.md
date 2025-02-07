@@ -1,4 +1,4 @@
-# Pokedex
+# [Pokedex](https://github.com/natep1123/Pokedex)
 
 _Displays 10 pokemon cards at a time. Click the button to refresh and get a new set from the pokeAPI._
 
