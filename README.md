@@ -2,7 +2,7 @@
 
 Hello, I'm **Nathaniel Perry** – a passionate **Software Engineer** and aspiring **Full-Stack Developer**. Welcome to my curated collection of projects! 🚀
 
-Dive in, enjoy the demos, and feel free to reach out with feedback, collaboration ideas or just to say hi! ✨
+Dive in, enjoy the demos, and feel free to reach out with feedback, collaboration ideas or just to say hi!
 
 ## Summary:
 
