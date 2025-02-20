@@ -1,6 +1,17 @@
-# [Pokedex](https://github.com/natep1123/Pokedex)
+# Pokedex
 
 _Displays 10 pokemon cards at a time. Click the button to refresh and get a new set from the pokeAPI._
+
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1veTJLv9SJEsFr7me8QW_eg-4JmskfriS" alt="Example 1" width="500px" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1ijinfgkLRLzq0PL0pRirJYgrExnYil8I" alt="Example 2" width="500px" />
+    </td>
+  </tr>
+</table>
 
 [Click here to watch the demo video](https://drive.google.com/file/d/1s8RSGV-ya3ueOOhdbU5taEhe9rmcJGki/view?usp=drive_link)
 
