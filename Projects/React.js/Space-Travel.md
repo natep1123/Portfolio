@@ -7,11 +7,24 @@ _React app for managing spacecraft and planets with Context API and React Router
     <td style="padding: 10px;">
       <img src="https://drive.google.com/uc?export=view&id=1qa6LmircvmjO-fTFYNIB7MyQGvm8y-xK" alt="Home Page" width="500px" />
     </td>
+        <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1nB2Dpz9GfYSZM43E538RMyoIDNkMN_wj" alt="Loader" width="500px" />
+    </td>
+  </tr>
+
+  <tr>
     <td style="padding: 10px;">
       <img src="https://drive.google.com/uc?export=view&id=1OWSkpWo6qrSYtg0p8POhqPwxsxp7ECPa" alt="Spacecrafts Page" width="500px" />
     </td>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1Za1DXbbSg5PrkK_VDrWZ6JJLAMutBZD7" alt="Spacecraft Page" width="500px" />
+    </td>
   </tr>
+ 
   <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1adlaOllLNfQOwNd9-0GClFTMPfpZRrRR" alt="Build Spacecraft Form" width="500px" />
+    </td>
     <td style="padding: 10px;">
       <img src="https://drive.google.com/uc?export=view&id=1DhuFyvByT29BGQ8UISJQGWlzPhwUkr5q" alt="Planets Page" width="500px" />
     </td>
