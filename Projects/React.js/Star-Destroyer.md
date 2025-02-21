@@ -2,6 +2,17 @@
 
 _Stars appear every two seconds, click to destroy! Simple React app to practice using useEffect with setInterval and cleanup functions for periodic updates and event handling._
 
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1ZImksXAO9AxI4SwRHPp_r0PfyzU3kQ9F" alt="Early Game" width="500px" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1b34tXwqZk7lc-jJ7AWozUvClzQ80e8ii" alt="Late Game" width="500px" />
+    </td>
+  </tr>
+</table>
+
 [Click here to watch the demo video](https://drive.google.com/file/d/1fZi8nZyqMjvYI-c0nSIuHrzniStiL27S/view?usp=drive_link)
 
 ## React Hooks:

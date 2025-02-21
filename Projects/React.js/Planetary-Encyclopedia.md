@@ -2,6 +2,17 @@
 
 _A simple React app for exploring key facts about the planets in our solar system. Built with React Router for seamless navigation._
 
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1KbXDzlv3u7vkNZtJTWtgbWk6egjcKYpF" alt="Home Page" width="500px" />
+    </td>
+        <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1gChSWVgXaTLi1IfObqD3vxoDWuoRW47_" alt="Venus Page" width="500px" />
+    </td>
+  </tr>
+</table>
+
 [Click here to watch the demo video](https://drive.google.com/file/d/1vWNKsYjl3ivx3iFnuM3GfEujLvmXu42H/view?usp=drive_link)
 
 ## React Router practice using:

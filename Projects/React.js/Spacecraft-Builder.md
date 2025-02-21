@@ -2,6 +2,23 @@
 
 _Build a spacecraft inventory by adding items with quantity and purpose, plus receive real-time validation feedback. View the live inventory and delete from it._
 
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1n33hmBGqHMDrVW_bt1ljW5fqBQhrxagW" alt="Initial Page Load" width="500px" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=1487Bh6BNSnFpEleIYyGI2TsCGl_o5DmA" alt="Validation Errors" width="500px" />
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://drive.google.com/uc?export=view&id=14kfCukOwW9U3uxnmI1eUZPVjjzvKj99M" alt="Active Inventory" width="500px" />
+    </td>
+  </tr>
+</table>
+
 [Click here to watch the demo video](https://drive.google.com/file/d/1-hLljuKJuVknGAU6E5H1IKTk4pcgeTyO/view?usp=drive_link)
 
 ## Summary:
