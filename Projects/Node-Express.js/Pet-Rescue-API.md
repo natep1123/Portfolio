@@ -1,6 +1,6 @@
 # [Pet-Rescue-API](https://github.com/natep1123/Pet-Rescue-API)
 
-_A RESTful API platform built to simulate online pet adoption. Features user authentication, pet profile management, and adoption workflows using Node.js and Express._
+_A RESTful API platform to mimic adopting a dog online with user authentication built with Node/Express.._
 
 ## **Project Structure**
 
