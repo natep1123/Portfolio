@@ -2,7 +2,7 @@
 
 Hello, I'm **Nathaniel Perry** – a passionate **Software Engineer** and **Full-Stack Developer**. Welcome to my curated collection of projects! 🚀
 
-[Click to see my Dital CV](https://nateperry.vercel.app)
+[Click to see my Digital CV](https://nateperry.vercel.app)
 
 ## Summary:
 
