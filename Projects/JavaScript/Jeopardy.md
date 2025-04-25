@@ -2,6 +2,8 @@
 
 _Interactive Jeopardy gameboard. Practice fetching, using and displaying data from an API._
 
+_[Click here to play!](https://jeopardy-wheat.vercel.app/)_
+
 <table>
   <tr>
     <td style="padding: 10px;">
@@ -17,7 +19,7 @@ _Interactive Jeopardy gameboard. Practice fetching, using and displaying data fr
 
 ## Summary:
 
-HTML, CSS and JavaScript practice with:
+**HTML, CSS and JavaScript practice with:**
 
 - DOM manipulation
 - Async/Await
@@ -27,13 +29,14 @@ HTML, CSS and JavaScript practice with:
 - API integration
 - CSS styling
 
-Key Features:
+**Key Features:**
 
 - Fetches data from an API for categories and clues.
 - Dynamically builds a gameboard with clickable cells that reveal questions and answers.
 - Implements the Fisher-Yates shuffle for randomizing categories.
 - Manages loading states with spinners and button interactions.
 - Handles errors and disables user input to prevent multiple requests.
+- Vercel deployment
 
 ## Graded by Hatchways Code Reviewer
 

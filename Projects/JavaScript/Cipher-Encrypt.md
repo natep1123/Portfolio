@@ -40,6 +40,7 @@ Key Features:
 - **Flexible Shift Values:** Supports shift values between 1 and 144 for varied encryption results.
 - **Handles Non-Letters:** Non-alphabetic characters (e.g., punctuation) are preserved unchanged, making it robust for real-world text.
 - **Decryption:** Reverses the encryption process to retrieve the original message.
+- **Deployment:** Vercel
 
 ## Algorithms:
 
