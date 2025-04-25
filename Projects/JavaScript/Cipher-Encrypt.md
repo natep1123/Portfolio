@@ -2,6 +2,8 @@
 
 _Tool for encrypting/decrypting messages using a custom letter-shift algorithm. Input a message and a shift value (1-144), then hit "Encrypt" or "Decrypt" to see smooth button and title animations!_
 
+_[Click here to try!](https://cipher-encrypt.vercel.app/)_
+
 <table>
   <tr>
     <td style="padding-right: 20px;">
