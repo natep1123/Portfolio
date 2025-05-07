@@ -10,7 +10,7 @@ _[Click here to play!](https://bounceback-zeta.vercel.app/)_
 <table>
   <tr>
     <td style="padding: 20px;">
-      <img src="https://drive.google.com/uc?export=view&id=1s4XvReBh2pBAJrl9DSt7VHZnH8fijsL5" alt="Login Page" width="1200px" />
+      <img src="https://drive.google.com/uc?export=view&id=1PHBPrnpZ-O7PzA0wj9CWCBMRE8y4y92Q" alt="Home Page" width="1200px" />
     </td>
   </tr>
   <tr>
